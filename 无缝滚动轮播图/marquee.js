@@ -1,6 +1,7 @@
 /***
  *无缝滚动轮播图，改编自智能社教程,并对原有代码进行部分修改
  *@author:徐申雷(www.joshinrai.com)
+ *@date:2017-04-12
  */
 var g_bMoveLeft=true;
 var g_oTimer=null;
