@@ -1,0 +1,1 @@
+module.exports = process.env.RESPONSE_COOKIE_COV ? require('./lib-cov/cookie') : require('./lib/cookie');
